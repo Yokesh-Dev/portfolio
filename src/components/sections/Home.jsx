@@ -25,7 +25,7 @@ export const Home = () => {
 
 
             <a
-              href="https://www.google.com/" target="blank"
+              href="https://drive.google.com/file/d/1rkXxRMD_qZX_BbedIXZ6I4rMmM14iBUC/view?usp=drive_link" target="blank"
               className="bg-blue-950 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.4)]"
             >
               Dowload Resume
